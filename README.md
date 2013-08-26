@@ -2,12 +2,10 @@
 
 OpenStreetMap router, based on [GraphHopper](https://github.com/graphhopper/graphhopper)
 
-
 Build
 ---------------
 
 mvn clean compile assembly:single
-
 
 Run
 ---------------
